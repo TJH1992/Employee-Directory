@@ -1,0 +1,14 @@
+.header {
+    min-height: 75px;
+    background:lightsteelblue;
+    position: relative;
+    text-align: center;
+  }
+  
+  .header h1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3px;
+  }
